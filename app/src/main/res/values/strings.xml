@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Daylog</string>
+    <string name="slide_1_title">Keep a dairy</string>
+    <string name="slide_1_desc">Keep a personal dairy? without writting down a single word! Just pick your
+        moods and activities anytime your feel
+like it.</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+</resources>
